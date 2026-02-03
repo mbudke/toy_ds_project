@@ -1,3 +1,3 @@
 # toy_ds_project
-# project creation date: Febuary 2nd, 2026
+# project creation date: February 2nd, 2026
 # author: Molly Budke
